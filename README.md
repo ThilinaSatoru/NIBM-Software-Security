@@ -16,4 +16,4 @@ There are two projects written in Python
 
 5. Files will be generated into '`OUTS`' folder.
 
-![Alt text](/Program%Encrypt/venv/out.png?raw=true "Optional Title")
+![outs](https://github.com/ThilinaSatoru/NIBM-Software-Security/blob/d5543d051e6cb32f1bd10259226342c8801e645b/Program%20Encrypt/venv/outs.PNG?raw=true "OUTS folder")
